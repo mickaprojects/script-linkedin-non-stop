@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS table_linkedin;
+CREATE TABLE table_linkedin
+                    (
+					  login character varying,
+                      password character varying,		  					  
+                      idenr serial NOT NULL,
+                      date_saisie date DEFAULT ('now'::text)::date,
+                      CONSTRAINT pk_table_linkedin PRIMARY KEY (idenr )
+                    )
+                    WITH (
+                      OIDS=TRUE
+                    );
+                    ALTER TABLE table_linkedin OWNER TO postgres;

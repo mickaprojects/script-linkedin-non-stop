@@ -1,0 +1,23 @@
+drop table IF EXISTS table_tel;
+CREATE TABLE table_tel
+                    (
+					  nom character varying,
+                      tel character varying,
+                      fonction character varying,
+			hyperlink text,
+			region character varying,
+			fonction_recherche character varying,
+                      flag character varying,
+			nom_nettoye character varying,		  
+                      idenr serial NOT NULL,
+                      date_saisie timestamp DEFAULT ('now'::text)::timestamp,
+                      CONSTRAINT pk_table_tel PRIMARY KEY (idenr )
+                    )
+                    WITH (
+                      OIDS=TRUE
+                    );
+                    ALTER TABLE table_tel OWNER TO postgres;
+
+alter table table_tel add column campagne character varying
+alter table table_tel add column compte character varying
+alter table table_tel add column message_envoye character varying

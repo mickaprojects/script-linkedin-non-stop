@@ -1,0 +1,1077 @@
+Région de Ahuillé, France
+Région de Alexain, France
+Région de Ambrières-les-Vallées, France
+Région de Ampoigné, France
+Région de Andouillé, France
+Région de Argenton-Notre-Dame, France
+Région de Argentré, France
+Région de Aron, France
+Région de Arquenay, France
+Région de Assé-le-Bérenger, France
+Région de Astillé, France
+Région de Athée, France
+Région de Averton, France
+Région de Azé, France
+Région de Bais, France
+Région de Ballots, France
+Région de Bannes, France
+Région de Bazougers, France
+Région de Beaulieu-sur-Oudon, France
+Région de Beaumont-Pied-de-Bœuf, France
+Région de Belgeard, France
+Région de Bierné, France
+Région de Blandouet-Saint Jean, France
+Région de Bonchamp-lès-Laval, France
+Région de Bouchamps-lès-Craon, France
+Région de Bouère, France
+Région de Bouessay, France
+Région de Boulay-les-Ifs, France
+Région de Bourgon, France
+Région de Brains-sur-les-Marches, France
+Région de Brecé, France
+Région de Brée, France
+Région de Carelles, France
+Région de Chailland, France
+Région de Châlons-du-Maine, France
+Région de Champéon, France
+Région de Champfrémont, France
+Région de Champgenéteux, France
+Région de Changé, France
+Région de Chantrigné, France
+Région de Charchigné, France
+Région de Château-Gontier, France
+Région de Châtelain, France
+Région de Châtillon-sur-Colmont, France
+Région de Châtres-la-Forêt, France
+Région de Chemazé, France
+Région de Chémeré-le-Roi, France
+Région de Chérancé, France
+Région de Chevaigné-du-Maine, France
+Région de Colombiers-du-Plessis, France
+Région de Commer, France
+Région de Congrier, France
+Région de Contest, France
+Région de Cosmes, France
+Région de Cossé-en-Champagne, France
+Région de Cossé-le-Vivien, France
+Région de Coudray, France
+Région de Couesmes-Vaucé, France
+Région de Couptrain, France
+Région de Courbeveille, France
+Région de Courcité, France
+Région de Craon, France
+Région de Crennes-sur-Fraubée, France
+Région de Cuillé, France
+Région de Daon, France
+Région de Denazé, France
+Région de Désertines, France
+Région de Deux-Évailles, France
+Région de Entrammes, France
+Région de Ernée, France
+Région de Évron, France
+Région de Fontaine-Couverte, France
+Région de Forcé, France
+Région de Fougerolles-du-Plessis, France
+Région de Fromentières, France
+Région de Gastines, France
+Région de Gennes-sur-Glaize, France
+Région de Gesnes, France
+Région de Gesvres, France
+Région de Gorron, France
+Région de Grazay, France
+Région de Grez-en-Bouère, France
+Région de Hambers, France
+Région de Hardanges, France
+Région de Hercé, France
+Région de Houssay, France
+Région de Izé, France
+Région de Javron-les-Chapelles, France
+Région de Jublains, France
+Région de Juvigné, France
+Région de L'Huisserie, France
+Région de La Baconnière, France
+Région de La Bazoge-Montpinçon, France
+Région de La Bazouge-de-Chemeré, France
+Région de La Bazouge-des-Alleux, France
+Région de La Bigottière, France
+Région de La Boissière, France
+Région de La Brûlatte, France
+Région de La Chapelle-Anthenaise, France
+Région de La Chapelle-au-Riboul, France
+Région de La Chapelle-Craonnaise, France
+Région de La Chapelle-Rainsouin, France
+Région de La Croixille, France
+Région de La Cropte, France
+Région de La Dorée, France
+Région de La Gravelle, France
+Région de La Haie-Traversaine, France
+Région de La Pallu, France
+Région de La Pellerine, France
+Région de La Roë, France
+Région de La Rouaudière, France
+Région de La Selle-Craonnaise, France
+Région de Laigné, France
+Région de Landivy, France
+Région de Larchamp, France
+Région de Lassay-les-Châteaux, France
+Région de Laubrières, France
+Région de Launay-Villiers, France
+Région de Laval, France
+Région de Le Bignon-du-Maine, France
+Région de Le Bourgneuf-la-Forêt, France
+Région de Le Buret, France
+Région de Le Genest-Saint-Isle, France
+Région de Le Ham, France
+Région de Le Horps, France
+Région de Le Housseau-Brétignolles, France
+Région de Le Pas, France
+Région de Le Ribay, France
+Région de Lesbois, France
+Région de Levaré, France
+Région de Lignières-Orgères, France
+Région de Livet, France
+Région de Livré-la-Touche, France
+Région de Loigné-sur-Mayenne, France
+Région de Loiron-Ruillé, France
+Région de Longuefuye, France
+Région de Loupfougères, France
+Région de Louverné, France
+Région de Louvigné, France
+Région de Madré, France
+Région de Maisoncelles-du-Maine, France
+Région de Marcillé-la-Ville, France
+Région de Marigné-Peuton, France
+Région de Martigné-sur-Mayenne, France
+Région de Mayenne, France
+Région de Mée, France
+Région de Ménil, France
+Région de Méral, France
+Région de Meslay-du-Maine, France
+Région de Mézangers, France
+Région de Montaudin, France
+Région de Montenay, France
+Région de Montflours, France
+Région de Montigné-le-Brillant, France
+Région de Montjean, France
+Région de Montourtier, France
+Région de Montreuil-Poulay, France
+Région de Montsûrs-Saint-Céneré, France
+Région de Moulay, France
+Région de Neau, France
+Région de Neuilly-le-Vendin, France
+Région de Niafles, France
+Région de Nuillé-sur-Vicoin, France
+Région de Oisseau, France
+Région de Olivet, France
+Région de Origné, France
+Région de Parigné-sur-Braye, France
+Région de Parné-sur-Roc, France
+Région de Peuton, France
+Région de Placé, France
+Région de Pommerieux, France
+Région de Pontmain, France
+Région de Port-Brillet, France
+Région de Pré-en-Pail-Saint-Samson, France
+Région de Préaux, France
+Région de Quelaines-Saint-Gault, France
+Région de Ravigny, France
+Région de Renazé, France
+Région de Rennes-en-Grenouilles, France
+Région de Ruillé-Froid-Fonds, France
+Région de Sacé, France
+Région de Saint-Aignan-de-Couptrain, France
+Région de Saint-Aignan-sur-Roë, France
+Région de Saint-Aubin-du-Désert, France
+Région de Saint-Aubin-Fosse-Louvain, France
+Région de Saint-Baudelle, France
+Région de Saint-Berthevin, France
+Région de Saint-Berthevin-la-Tannière, France
+Région de Saint-Brice, France
+Région de Saint-Calais-du-Désert, France
+Région de Saint-Charles-la-Forêt, France
+Région de Saint-Christophe-du-Luat, France
+Région de Saint-Cyr-en-Pail, France
+Région de Saint-Cyr-le-Gravelais, France
+Région de Saint-Denis-d'Anjou, France
+Région de Saint-Denis-de-Gastines, France
+Région de Saint-Denis-du-Maine, France
+Région de Saint-Ellier-du-Maine, France
+Région de Saint-Erblon, France
+Région de Saint-Fort, France
+Région de Saint-Fraimbault-de-Prières, France
+Région de Saint-Georges-Buttavent, France
+Région de Saint-Georges-le-Fléchard, France
+Région de Saint-Georges-sur-Erve, France
+Région de Saint-Germain-d'Anxure, France
+Région de Saint-Germain-de-Coulamer, France
+Région de Saint-Germain-le-Fouilloux, France
+Région de Saint-Germain-le-Guillaume, France
+Région de Saint-Hilaire-du-Maine, France
+Région de Saint-Jean-sur-Mayenne, France
+Région de Saint-Julien-du-Terroux, France
+Région de Saint-Laurent-des-Mortiers, France
+Région de Saint-Léger, France
+Région de Saint-Loup-du-Dorat, France
+Région de Saint-Loup-du-Gast, France
+Région de Saint-Mars-du-Désert, France
+Région de Saint-Mars-sur-Colmont, France
+Région de Saint-Mars-sur-la-Futaie, France
+Région de Saint-Martin-de-Connée, France
+Région de Saint-Martin-du-Limet, France
+Région de Saint-Michel-de-Feins, France
+Région de Saint-Michel-de-la-Roë, France
+Région de Saint-Ouën-des-Toits, France
+Région de Saint-Ouën-des-Vallons, France
+Région de Saint-Pierre-des-Landes, France
+Région de Saint-Pierre-des-Nids, France
+Région de Saint-Pierre-la-Cour, France
+Région de Saint-Pierre-sur-Erve, France
+Région de Saint-Pierre-sur-Orthe, France
+Région de Saint-Poix, France
+Région de Saint-Quentin-les-Anges, France
+Région de Saint-Saturnin-du-Limet, France
+Région de Saint-Sulpice, France
+Région de Saint-Thomas-de-Courceriers, France
+Région de Sainte-Gemmes-le-Robert, France
+Région de Sainte-Marie-du-Bois, France
+Région de Sainte-Suzanne-et-Chammes, France
+Région de Saulges, France
+Région de Senonnes, France
+Région de Simplé, France
+Région de Soucé, France
+Région de Soulgé-sur-Ouette, France
+Région de Thorigné-en-Charnie, France
+Région de Thubœuf, France
+Région de Torcé-Viviers-en-Charnie, France
+Région de Trans, France
+Région de Vaiges, France
+Région de Val-du-Maine, France
+Région de Vautorte, France
+Région de Vieuvy, France
+Région de Villaines-la-Juhel, France
+Région de Villepail, France
+Région de Villiers-Charlemagne, France
+Région de Vimarcé, France
+Région de Voutré, France
+Région de Agneaux, France
+Région de Agon-Coutainville, France
+Région de Airel, France
+Région de Amigny, France
+Région de Ancteville, France
+Région de Anctoville-sur-Boscq, France
+Région de Anneville-en-Saire, France
+Région de Anneville-sur-Mer, France
+Région de Annoville, France
+Région de Appeville, France
+Région de Aucey-la-Plaine, France
+Région de Audouville-la-Hubert, France
+Région de Aumeville-Lestre, France
+Région de Auvers, France
+Région de Auxais, France
+Région de Avranches, France
+Région de Azeville, France
+Région de Bacilly, France
+Région de Barenton, France
+Région de Barfleur, France
+Région de Barneville-Carteret, France
+Région de Baubigny, France
+Région de Baudre, France
+Région de Baupte, France
+Région de Beauchamps, France
+Région de Beaucoudray, France
+Région de Beauficel, France
+Région de Beauvoir, France
+Région de Belval, France
+Région de Benoîtville, France
+Région de Bérigny, France
+Région de Beslon, France
+Région de Besneville, France
+Région de Beuvrigny, France
+Région de Beuzeville-la-Bastille, France
+Région de Biéville, France
+Région de Biniville, France
+Région de Blainville-sur-Mer, France
+Région de Blosville, France
+Région de Boisyvon, France
+Région de Bourguenolles, France
+Région de Bourgvallées, France
+Région de Boutteville, France
+Région de Brainville, France
+Région de Brécey, France
+Région de Bréhal, France
+Région de Bretteville, France
+Région de Bretteville-sur-Ay, France
+Région de Breuville, France
+Région de Bréville-sur-Mer, France
+Région de Bricquebec-en-Cotentin, France
+Région de Bricquebosq, France
+Région de Bricqueville-la-Blouette, France
+Région de Bricqueville-sur-Mer, France
+Région de Brillevast, France
+Région de Brix, France
+Région de Brouains, France
+Région de Brucheville, France
+Région de Buais-Les-Monts, France
+Région de Cambernon, France
+Région de Cametours, France
+Région de Camprond, France
+Région de Canisy, France
+Région de Canteloup, France
+Région de Canville-la-Rocque, France
+Région de Carantilly, France
+Région de Carentan les Marais, France
+Région de Carneville, France
+Région de Carolles, France
+Région de Carquebut, France
+Région de Catteville, France
+Région de Catz, France
+Région de Cavigny, France
+Région de Céaux, France
+Région de Cérences, France
+Région de Cerisy-la-Forêt, France
+Région de Cerisy-la-Salle, France
+Région de Champeaux, France
+Région de Champrepus, France
+Région de Chanteloup, France
+Région de Chaulieu, France
+Région de Chavoy, France
+Région de Cherbourg-en-Cotentin, France
+Région de Chérencé-le-Héron, France
+Région de Clitourps, France
+Région de Colomby, France
+Région de Condé-sur-Vire, France
+Région de Contrières, France
+Région de Coudeville-sur-Mer, France
+Région de Coulouvray-Boisbenâtre, France
+Région de Courcy, France
+Région de Courtils, France
+Région de Coutances, France
+Région de Couvains, France
+Région de Couville, France
+Région de Crasville, France
+Région de Créances, France
+Région de Crollon, France
+Région de Crosville-sur-Douve, France
+Région de Cuves, France
+Région de Dangy, France
+Région de Denneville, France
+Région de Digosville, France
+Région de Domjean, France
+Région de Donville-les-Bains, France
+Région de Doville, France
+Région de Dragey-Ronthon, France
+Région de Ducey-Les Chéris, France
+Région de Écausseville, France
+Région de Émondeville, France
+Région de Équilly, France
+Région de Éroudeville, France
+Région de Étienville, France
+Région de Fermanville, France
+Région de Feugères, France
+Région de Fierville-les-Mines, France
+Région de Flamanville, France
+Région de Fleury, France
+Région de Flottemanville, France
+Région de Folligny, France
+Région de Fontenay-sur-Mer, France
+Région de Fourneaux, France
+Région de Fresville, France
+Région de Gathemo, France
+Région de Gatteville-le-Phare, France
+Région de Gavray, France
+Région de Geffosses, France
+Région de Genêts, France
+Région de Ger, France
+Région de Golleville, France
+Région de Gonfreville, France
+Région de Gonneville-Le Theil, France
+Région de Gorges, France
+Région de Gouvets, France
+Région de Gouville sur Mer, France
+Région de Graignes-Mesnil-Angot, France
+Région de Grandparigny, France
+Région de Granville, France
+Région de Gratot, France
+Région de Grimesnil, France
+Région de Grosville, France
+Région de Guéhébert, France
+Région de Hambye, France
+Région de Hamelin, France
+Région de Hardinvast, France
+Région de Hauteville-la-Guichard, France
+Région de Hauteville-sur-Mer, France
+Région de Hautteville-Bocage, France
+Région de Héauville, France
+Région de Helleville, France
+Région de Hémevez, France
+Région de Hérenguerville, France
+Région de Heugueville-sur-Sienne, France
+Région de Hiesville, France
+Région de Hocquigny, France
+Région de Huberville, France
+Région de Hudimesnil, France
+Région de Huisnes-sur-Mer, France
+Région de Isigny-le-Buat, France
+Région de Joganville, France
+Région de Juilley, France
+Région de Jullouville, France
+Région de Juvigny les Vallées, France
+Région de L'Étang-Bertrand, France
+Région de La Baleine, France
+Région de La Barre-de-Semilly, France
+Région de La Bloutière, France
+Région de La Bonneville, France
+Région de La Chaise-Baudouin, France
+Région de La Chapelle-Cécelin, France
+Région de La Chapelle-Urée, France
+Région de La Colombe, France
+Région de La Feuillie, France
+Région de La Godefroy, France
+Région de La Gohannière, France
+Région de La Hague, France
+Région de La Haye, France
+Région de La Haye-Bellefond, France
+Région de La Haye-d'Ectot, France
+Région de La Haye-Pesnel, France
+Région de La Lande-d'Airou, France
+Région de La Lucerne-d'Outremer, France
+Région de La Luzerne, France
+Région de La Meauffe, France
+Région de La Meurdraquière, France
+Région de La Mouche, France
+Région de La Pernelle, France
+Région de La Ronde-Haye, France
+Région de La Trinité, France
+Région de La Vendelée, France
+Région de Lamberville, France
+Région de Lapenty, France
+Région de Laulne, France
+Région de Le Dézert, France
+Région de Le Fresne-Poret, France
+Région de Le Grand-Celland, France
+Région de Le Grippon, France
+Région de Le Guislain, France
+Région de Le Ham, France
+Région de Le Hommet-d'Arthenay, France
+Région de Le Loreur, France
+Région de Le Lorey, France
+Région de Le Luot, France
+Région de Le Mesnil, France
+Région de Le Mesnil-Adelée, France
+Région de Le Mesnil-Amand, France
+Région de Le Mesnil-Amey, France
+Région de Le Mesnil-au-Val, France
+Région de Le Mesnil-Aubert, France
+Région de Le Mesnil-Eury, France
+Région de Le Mesnil-Garnier, France
+Région de Le Mesnil-Gilbert, France
+Région de Le Mesnil-Herman, France
+Région de Le Mesnil-Ozenne, France
+Région de Le Mesnil-Rogues, France
+Région de Le Mesnil-Rouxelin, France
+Région de Le Mesnil-Véneron, France
+Région de Le Mesnil-Villeman, France
+Région de Le Mesnilbus, France
+Région de Le Mesnillard, France
+Région de Le Mont-Saint-Michel, France
+Région de Le Neufbourg, France
+Région de Le Parc, France
+Région de Le Perron, France
+Région de Le Petit-Celland, France
+Région de Le Plessis-Lastelle, France
+Région de Le Rozel, France
+Région de Le Tanu, France
+Région de Le Teilleul, France
+Région de Le Val-Saint-Père, France
+Région de Le Vast, France
+Région de Le Vicel, France
+Région de Lengronne, France
+Région de Les Cresnays, France
+Région de Les Loges-Marchis, France
+Région de Les Loges-sur-Brécey, France
+Région de Les Moitiers-d'Allonne, France
+Région de Les Pieux, France
+Région de Lessay, France
+Région de Lestre, France
+Région de Liesville-sur-Douve, France
+Région de Lieusaint, France
+Région de Lingeard, France
+Région de Lingreville, France
+Région de Lolif, France
+Région de Longueville, France
+Région de Magneville, France
+Région de Marcey-les-Grèves, France
+Région de Marchésieux, France
+Région de Marcilly, France
+Région de Margueray, France
+Région de Marigny-Le-Lozon, France
+Région de Martinvast, France
+Région de Maupertuis, France
+Région de Maupertus-sur-Mer, France
+Région de Méautis, France
+Région de Millières, France
+Région de Montabot, France
+Région de Montaigu-la-Brisette, France
+Région de Montaigu-les-Bois, France
+Région de Montbray, France
+Région de Montcuit, France
+Région de Montebourg, France
+Région de Montfarville, France
+Région de Monthuchon, France
+Région de Montjoie-Saint-Martin, France
+Région de Montmartin-en-Graignes, France
+Région de Montmartin-sur-Mer, France
+Région de Montpinchon, France
+Région de Montrabot, France
+Région de Montreuil-sur-Lozon, France
+Région de Montsenelle, France
+Région de Montsurvent, France
+Région de Moon-sur-Elle, France
+Région de Morigny, France
+Région de Morsalines, France
+Région de Mortain-Bocage, France
+Région de Morville, France
+Région de Moulines, France
+Région de Moyon Villages, France
+Région de Muneville-le-Bingard, France
+Région de Muneville-sur-Mer, France
+Région de Nay, France
+Région de Négreville, France
+Région de Néhou, France
+Région de Neufmesnil, France
+Région de Neuville-au-Plain, France
+Région de Neuville-en-Beaumont, France
+Région de Nicorps, France
+Région de Notre-Dame-de-Cenilly, France
+Région de Notre-Dame-de-Livoye, France
+Région de Nouainville, France
+Région de Octeville-l'Avenel, France
+Région de Orglandes, France
+Région de Orval sur Sienne, France
+Région de Ouville, France
+Région de Ozeville, France
+Région de Percy-en-Normandie, France
+Région de Périers, France
+Région de Perriers-en-Beauficel, France
+Région de Picauville, France
+Région de Pierreville, France
+Région de Pirou, France
+Région de Poilley, France
+Région de Pont-Hébert, France
+Région de Pontaubault, France
+Région de Pontorson, France
+Région de Ponts, France
+Région de Portbail, France
+Région de Précey, France
+Région de Quettehou, France
+Région de Quettreville-sur-Sienne, France
+Région de Quibou, France
+Région de Quinéville, France
+Région de Raids, France
+Région de Rampan, France
+Région de Rauville-la-Bigot, France
+Région de Rauville-la-Place, France
+Région de Ravenoville, France
+Région de Reffuveille, France
+Région de Regnéville-sur-Mer, France
+Région de Reigneville-Bocage, France
+Région de Remilly Les Marais, France
+Région de Réville, France
+Région de Rocheville, France
+Région de Romagny Fontenay, France
+Région de Roncey, France
+Région de Sacey, France
+Région de Saint-Amand-Villages, France
+Région de Saint-André-de-Bohon, France
+Région de Saint-André-de-l'Épine, France
+Région de Saint-Aubin-de-Terregatte, France
+Région de Saint-Aubin-des-Préaux, France
+Région de Saint-Aubin-du-Perron, France
+Région de Saint-Barthélemy, France
+Région de Saint-Brice, France
+Région de Saint-Brice-de-Landelles, France
+Région de Saint-Christophe-du-Foc, France
+Région de Saint-Clair-sur-l'Elle, France
+Région de Saint-Clément-Rancoudray, France
+Région de Saint-Cyr, France
+Région de Saint-Cyr-du-Bailleul, France
+Région de Saint-Denis-le-Gast, France
+Région de Saint-Denis-le-Vêtu, France
+Région de Saint-Floxel, France
+Région de Saint-Fromond, France
+Région de Saint-Georges-d'Elle, France
+Région de Saint-Georges-de-la-Rivière, France
+Région de Saint-Georges-de-Livoye, France
+Région de Saint-Georges-de-Rouelley, France
+Région de Saint-Georges-Montcocq, France
+Région de Saint-Germain-d'Elle, France
+Région de Saint-Germain-de-Tournebut, France
+Région de Saint-Germain-de-Varreville, France
+Région de Saint-Germain-le-Gaillard, France
+Région de Saint-Germain-sur-Ay, France
+Région de Saint-Germain-sur-Sèves, France
+Région de Saint-Gilles, France
+Région de Saint-Hilaire-du-Harcouët, France
+Région de Saint-Hilaire-Petitville, France
+Région de Saint-Jacques-de-Néhou, France
+Région de Saint-James, France
+Région de Saint-Jean-d'Elle, France
+Région de Saint-Jean-de-Daye, France
+Région de Saint-Jean-de-la-Haize, France
+Région de Saint-Jean-de-la-Rivière, France
+Région de Saint-Jean-de-Savigny, France
+Région de Saint-Jean-des-Champs, France
+Région de Saint-Jean-du-Corail-des-Bois, France
+Région de Saint-Jean-le-Thomas, France
+Région de Saint-Joseph, France
+Région de Saint-Laurent-de-Cuves, France
+Région de Saint-Laurent-de-Terregatte, France
+Région de Saint-Lô, France
+Région de Saint-Lô-d'Ourville, France
+Région de Saint-Louet-sur-Vire, France
+Région de Saint-Loup, France
+Région de Saint-Malo-de-la-Lande, France
+Région de Saint-Marcouf, France
+Région de Saint-Martin-d'Aubigny, France
+Région de Saint-Martin-d'Audouville, France
+Région de Saint-Martin-de-Bonfossé, France
+Région de Saint-Martin-de-Cenilly, France
+Région de Saint-Martin-de-Varreville, France
+Région de Saint-Martin-des-Champs, France
+Région de Saint-Martin-le-Bouillant, France
+Région de Saint-Martin-le-Gréard, France
+Région de Saint-Maur-des-Bois, France
+Région de Saint-Maurice-en-Cotentin, France
+Région de Saint-Michel-de-la-Pierre, France
+Région de Saint-Michel-de-Montjoie, France
+Région de Saint-Nicolas-de-Pierrepont, France
+Région de Saint-Nicolas-des-Bois, France
+Région de Saint-Ovin, France
+Région de Saint-Pair-sur-Mer, France
+Région de Saint-Patrice-de-Claids, France
+Région de Saint-Pierre-d'Arthéglise, France
+Région de Saint-Pierre-de-Coutances, France
+Région de Saint-Pierre-de-Semilly, France
+Région de Saint-Pierre-Église, France
+Région de Saint-Pierre-Langers, France
+Région de Saint-Planchers, France
+Région de Saint-Pois, France
+Région de Saint-Quentin-sur-le-Homme, France
+Région de Saint-Sauveur-de-Pierrepont, France
+Région de Saint-Sauveur-la-Pommeraye, France
+Région de Saint-Sauveur-le-Vicomte, France
+Région de Saint-Sauveur-Lendelin, France
+Région de Saint-Sébastien-de-Raids, France
+Région de Saint-Senier-de-Beuvron, France
+Région de Saint-Senier-sous-Avranches, France
+Région de Saint-Vaast-la-Hougue, France
+Région de Saint-Vigor-des-Monts, France
+Région de Sainte-Cécile, France
+Région de Sainte-Colombe, France
+Région de Sainte-Geneviève, France
+Région de Sainte-Marie-du-Mont, France
+Région de Sainte-Mère-Église, France
+Région de Sainte-Suzanne-sur-Vire, France
+Région de Sartilly-Baie-Bocage, France
+Région de Saussemesnil, France
+Région de Saussey, France
+Région de Savigny, France
+Région de Savigny-le-Vieux, France
+Région de Sébeville, France
+Région de Sénoville, France
+Région de Servigny, France
+Région de Servon, France
+Région de Sideville, France
+Région de Siouville-Hague, France
+Région de Sortosville, France
+Région de Sortosville-en-Beaumont, France
+Région de Sottevast, France
+Région de Sotteville, France
+Région de Soulles, France
+Région de Sourdeval, France
+Région de Sourdeval-les-Bois, France
+Région de Subligny, France
+Région de Surtainville, France
+Région de Taillepied, France
+Région de Tamerville, France
+Région de Tanis, France
+Région de Terre-et-Marais, France
+Région de Tessy Bocage, France
+Région de Teurthéville-Bocage, France
+Région de Teurthéville-Hague, France
+Région de Thèreval, France
+Région de Théville, France
+Région de Tirepied, France
+Région de Tocqueville, France
+Région de Tollevast, France
+Région de Torigny-les-Villes, France
+Région de Tourville-sur-Sienne, France
+Région de Tréauville, France
+Région de Trelly, France
+Région de Tribehou, France
+Région de Turqueville, France
+Région de Urville, France
+Région de Vains, France
+Région de Valcanville, France
+Région de Valognes, France
+Région de Varenguebec, France
+Région de Varouville, France
+Région de Vaudreville, France
+Région de Vaudrimesnil, France
+Région de Ver, France
+Région de Vernix, France
+Région de Vesly, France
+Région de Vicq-sur-Mer, France
+Région de Videcosville, France
+Région de Vierville, France
+Région de Villebaudon, France
+Région de Villedieu-les-Poêles-Rouffigny, France
+Région de Villiers-Fossard, France
+Région de Virandeville, France
+Région de Yquelon, France
+Région de Yvetot-Bocage, France
+Région de Acigné, France
+Région de Amanlis, France
+Région de Andouillé-Neuville, France
+Région de Antrain, France
+Région de Arbrissel, France
+Région de Argentré-du-Plessis, France
+Région de Aubigné, France
+Région de Availles-sur-Seiche, France
+Région de Baguer-Morvan, France
+Région de Baguer-Pican, France
+Région de Baillé, France
+Région de Bain-de-Bretagne, France
+Région de Bains-sur-Oust, France
+Région de Bais, France
+Région de Balazé, France
+Région de Baulon, France
+Région de Bazouges-la-Pérouse, France
+Région de Beaucé, France
+Région de Bécherel, France
+Région de Bédée, France
+Région de Betton, France
+Région de Billé, France
+Région de Bléruais, France
+Région de Boisgervilly, France
+Région de Boistrudan, France
+Région de Bonnemain, France
+Région de Bourg-des-Comptes, France
+Région de Bourgbarré, France
+Région de Bovel, France
+Région de Bréal-sous-Montfort, France
+Région de Bréal-sous-Vitré, France
+Région de Brécé, France
+Région de Breteil, France
+Région de Brie, France
+Région de Brielles, France
+Région de Broualan, France
+Région de Bruc-sur-Aff, France
+Région de Bruz, France
+Région de Cancale, France
+Région de Cardroc, France
+Région de Cesson-Sévigné, France
+Région de Champeaux, France
+Région de Chancé, France
+Région de Chanteloup, France
+Région de Chantepie, France
+Région de Chartres-de-Bretagne, France
+Région de Chasné-sur-Illet, France
+Région de Châteaubourg, France
+Région de Châteaugiron, France
+Région de Châteauneuf-d'Ille-et-Vilaine, France
+Région de Châtillon-en-Vendelais, France
+Région de Chauvigné, France
+Région de Chavagne, France
+Région de Chelun, France
+Région de Cherrueix, France
+Région de Chevaigné, France
+Région de Cintré, France
+Région de Clayes, France
+Région de Coësmes, France
+Région de Comblessac, France
+Région de Combourg, France
+Région de Combourtillé, France
+Région de Cornillé, France
+Région de Corps-Nuds, France
+Région de Crevin, France
+Région de Cuguen, France
+Région de Dinard, France
+Région de Dingé, France
+Région de Dol-de-Bretagne, France
+Région de Domagné, France
+Région de Domalain, France
+Région de Domloup, France
+Région de Dompierre-du-Chemin, France
+Région de Dourdain, France
+Région de Drouges, France
+Région de Eancé, France
+Région de Epiniac, France
+Région de Erbrée, France
+Région de Ercé-en-Lamée, France
+Région de Ercé-près-Liffré, France
+Région de Essé, France
+Région de Étrelles, France
+Région de Feins, France
+Région de Fleurigné, France
+Région de Forges-la-Forêt, France
+Région de Fougères, France
+Région de Gaël, France
+Région de Gahard, France
+Région de Gennes-sur-Seiche, France
+Région de Gévezé, France
+Région de Gosné, France
+Région de Goven, France
+Région de Grand-Fougeray, France
+Région de Guichen, France
+Région de Guignen, France
+Région de Guipel, France
+Région de Guipry-Messac, France
+Région de Hédé-Bazouges, France
+Région de Hirel, France
+Région de Iffendic, France
+Région de Irodouër, France
+Région de Janzé, France
+Région de Javené, France
+Région de L'Hermitage, France
+Région de La Baussaine, France
+Région de La Bazouge-du-Désert, France
+Région de La Bosse-de-Bretagne, France
+Région de La Bouëxière, France
+Région de La Boussac, France
+Région de La Chapelle du Lou du Lac, France
+Région de La Chapelle-aux-Filtzméens, France
+Région de La Chapelle-Bouëxic, France
+Région de La Chapelle-Chaussée, France
+Région de La Chapelle-de-Brain, France
+Région de La Chapelle-des-Fougeretz, France
+Région de La Chapelle-Erbrée, France
+Région de La Chapelle-Janson, France
+Région de La Chapelle-Saint-Aubert, France
+Région de La Chapelle-Thouarault, France
+Région de La Couyère, France
+Région de La Dominelais, France
+Région de La Fontenelle, France
+Région de La Fresnais, France
+Région de La Gouesnière, France
+Région de La Guerche-de-Bretagne, France
+Région de La Mézière, France
+Région de La Noë-Blanche, France
+Région de La Nouaye, France
+Région de La Richardais, France
+Région de La Selle-en-Luitré, France
+Région de La Selle-Guerchaise, France
+Région de La Ville-ès-Nonais, France
+Région de Laignelet, France
+Région de Laillé, France
+Région de Lalleu, France
+Région de Landavran, France
+Région de Landéan, France
+Région de Landujan, France
+Région de Langan, France
+Région de Langon, France
+Région de Langouet, France
+Région de Lanhélin, France
+Région de Lanrigan, France
+Région de Lassy, France
+Région de Le Châtellier, France
+Région de Le Crouais, France
+Région de Le Ferré, France
+Région de Le Loroux, France
+Région de Le Minihic-sur-Rance, France
+Région de Le Pertre, France
+Région de Le Petit-Fougeray, France
+Région de Le Rheu, France
+Région de Le Sel-de-Bretagne, France
+Région de Le Theil-de-Bretagne, France
+Région de Le Tiercent, France
+Région de Le Tronchet, France
+Région de Le Verger, France
+Région de Le Vivier-sur-Mer, France
+Région de Lécousse, France
+Région de Les Brulais, France
+Région de Les Iffs, France
+Région de Les Portes du Coglais, France
+Région de Lieuron, France
+Région de Liffré, France
+Région de Lillemer, France
+Région de Livré-sur-Changeon, France
+Région de Lohéac, France
+Région de Longaulnay, France
+Région de Lourmais, France
+Région de Loutehel, France
+Région de Louvigné-de-Bais, France
+Région de Louvigné-du-Désert, France
+Région de Luitré, France
+Région de Maen Roch, France
+Région de Marcillé-Raoul, France
+Région de Marcillé-Robert, France
+Région de Marpiré, France
+Région de Martigné-Ferchaud, France
+Région de Maxent, France
+Région de Mecé, France
+Région de Médréac, France
+Région de Meillac, France
+Région de Melesse, France
+Région de Mellé, France
+Région de Mernel, France
+Région de Mézières-sur-Couesnon, France
+Région de Miniac-Morvan, France
+Région de Miniac-sous-Bécherel, France
+Région de Mondevert, France
+Région de Mont-Dol, France
+Région de Montauban-de-Bretagne, France
+Région de Montautour, France
+Région de Monterfil, France
+Région de Montfort-sur-Meu, France
+Région de Montgermont, France
+Région de Monthault, France
+Région de Montreuil-des-Landes, France
+Région de Montreuil-le-Gast, France
+Région de Montreuil-sous-Pérouse, France
+Région de Montreuil-sur-Ille, France
+Région de Mordelles, France
+Région de Mouazé, France
+Région de Moulins, France
+Région de Moussé, France
+Région de Moutiers, France
+Région de Muel, France
+Région de Nouvoitou, France
+Région de Noyal-Châtillon-sur-Seiche, France
+Région de Noyal-sous-Bazouges, France
+Région de Noyal-sur-Vilaine, France
+Région de Orgères, France
+Région de Pacé, France
+Région de Paimpont, France
+Région de Pancé, France
+Région de Parcé, France
+Région de Parigné, France
+Région de Parthenay-de-Bretagne, France
+Région de Pipriac, France
+Région de Piré-sur-Seiche, France
+Région de Pléchâtel, France
+Région de Pleine-Fougères, France
+Région de Plélan-le-Grand, France
+Région de Plerguer, France
+Région de Plesder, France
+Région de Pleugueneuc, France
+Région de Pleumeleuc, France
+Région de Pleurtuit, France
+Région de Pocé-les-Bois, France
+Région de Poilley, France
+Région de Poligné, France
+Région de Pont-Péan, France
+Région de Princé, France
+Région de Québriac, France
+Région de Quédillac, France
+Région de Rannée, France
+Région de Redon, France
+Région de Renac, France
+Région de Rennes, France
+Région de Retiers, France
+Région de Rimou, France
+Région de Romagné, France
+Région de Romazy, France
+Région de Romillé, France
+Région de Roz-Landrieux, France
+Région de Roz-sur-Couesnon, France
+Région de Sains, France
+Région de Saint-Armel, France
+Région de Saint-Aubin-d'Aubigné, France
+Région de Saint-Aubin-des-Landes, France
+Région de Saint-Aubin-du-Cormier, France
+Région de Saint-Benoît-des-Ondes, France
+Région de Saint-Briac-sur-Mer, France
+Région de Saint-Brieuc-des-Iffs, France
+Région de Saint-Broladre, France
+Région de Saint-Christophe-de-Valains, France
+Région de Saint-Christophe-des-Bois, France
+Région de Saint-Coulomb, France
+Région de Saint-Didier, France
+Région de Saint-Domineuc, France
+Région de Saint-Erblon, France
+Région de Saint-Ganton, France
+Région de Saint-Georges-de-Chesné, France
+Région de Saint-Georges-de-Gréhaigne, France
+Région de Saint-Georges-de-Reintembault, France
+Région de Saint-Germain-du-Pinel, France
+Région de Saint-Germain-en-Coglès, France
+Région de Saint-Germain-sur-Ille, France
+Région de Saint-Gilles, France
+Région de Saint-Gondran, France
+Région de Saint-Gonlay, France
+Région de Saint-Grégoire, France
+Région de Saint-Guinoux, France
+Région de Saint-Hilaire-des-Landes, France
+Région de Saint-Jacques-de-la-Lande, France
+Région de Saint-Jean-sur-Couesnon, France
+Région de Saint-Jean-sur-Vilaine, France
+Région de Saint-Jouan-des-Guérets, France
+Région de Saint-Just, France
+Région de Saint-Léger-des-Prés, France
+Région de Saint-Lunaire, France
+Région de Saint-M'Hervé, France
+Région de Saint-M'Hervon, France
+Région de Saint-Malo, France
+Région de Saint-Malo-de-Phily, France
+Région de Saint-Malon-sur-Mel, France
+Région de Saint-Marc-le-Blanc, France
+Région de Saint-Marc-sur-Couesnon, France
+Région de Saint-Marcan, France
+Région de Saint-Maugan, France
+Région de Saint-Médard-sur-Ille, France
+Région de Saint-Méen-le-Grand, France
+Région de Saint-Méloir-des-Ondes, France
+Région de Saint-Onen-la-Chapelle, France
+Région de Saint-Ouen-des-Alleux, France
+Région de Saint-Ouen-la-Rouërie, France
+Région de Saint-Péran, France
+Région de Saint-Père, France
+Région de Saint-Pern, France
+Région de Saint-Pierre-de-Plesguen, France
+Région de Saint-Rémy-du-Plain, France
+Région de Saint-Sauveur-des-Landes, France
+Région de Saint-Séglin, France
+Région de Saint-Senoux, France
+Région de Saint-Suliac, France
+Région de Saint-Sulpice-des-Landes, France
+Région de Saint-Sulpice-la-Forêt, France
+Région de Saint-Symphorien, France
+Région de Saint-Thual, France
+Région de Saint-Thurial, France
+Région de Saint-Uniac, France
+Région de Sainte-Anne-sur-Vilaine, France
+Région de Sainte-Colombe, France
+Région de Sainte-Marie, France
+Région de Saulnières, France
+Région de Sens-de-Bretagne, France
+Région de Servon-sur-Vilaine, France
+Région de Sixt-sur-Aff, France
+Région de Sougéal, France
+Région de Taillis, France
+Région de Talensac, France
+Région de Teillay, France
+Région de Thorigné-Fouillard, France
+Région de Thourie, France
+Région de Tinténiac, France
+Région de Torcé, France
+Région de Trans-la-Forêt, France
+Région de Treffendel, France
+Région de Tremblay, France
+Région de Trémeheuc, France
+Région de Tresbœuf, France
+Région de Tressé, France
+Région de Trévérien, France
+Région de Trimer, France
+Région de Val d'Anast, France
+Région de Val-d'Izé, France
+Région de Vendel, France
+Région de Vergéal, France
+Région de Vern-sur-Seiche, France
+Région de Vezin-le-Coquet, France
+Région de Vieux-Viel, France
+Région de Vieux-Vy-sur-Couesnon, France
+Région de Vignoc, France
+Région de Villamée, France
+Région de Visseiche, France
+Région de Vitré, France

@@ -1,0 +1,12 @@
+  -- Sequence: public.table_campagne_idenr_seq
+
+-- DROP SEQUENCE public.table_campagne_idenr_seq;
+
+CREATE SEQUENCE public.table_campagne_idenr_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1
+  CACHE 1;
+ALTER TABLE public.table_campagne_idenr_seq
+  OWNER TO postgres;

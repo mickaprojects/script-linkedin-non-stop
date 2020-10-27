@@ -1,0 +1,19 @@
+-- Table: public.table_campagne
+
+-- DROP TABLE public.table_campagne;
+
+CREATE TABLE public.table_campagne
+(
+  campagne character varying, 
+  idenr integer NOT NULL DEFAULT nextval('table_campagne_idenr_seq'::regclass),
+  date_saisie date DEFAULT ('now'::text)::date,
+  CONSTRAINT pk_table_campagne PRIMARY KEY (idenr)
+)
+WITH (
+  OIDS=TRUE
+);
+ALTER TABLE public.table_campagne
+  OWNER TO postgres;
+  
+  
+ 

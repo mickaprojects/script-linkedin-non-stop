@@ -1,0 +1,24 @@
+Bonsoir,
+Veuillez retrouver sur drive.google.com un video montrant le déroulement du script d'envoi
+de message automatique sur linkedin.
+
+Ci-dessous quelques explications concernant le vidéo:
+1) En premier, je vous montre le fichier "parametres.ini" qui permet de
+préciser le login, mot de passe et quelques paramètres
+2) ensuite il y a le fichier "destinataire.txt" qui définit
+l'info à qui à envoyer le message
+3) après il y a le fichier "texte.txt" qui précise le 
+texte à envoyer
+4) durant le déroulement du script, il envoie le message pour tous
+les destinataires où il y a le bouton "connect ou message".
+Il traite toutes les pages suivantes sans fin.
+S'il y a coupure réseau ou probleme de chargement de page du site
+qui arretera le script, ce dernier peut être relancé après.
+J'ai arrêté le script à la 3ème page.
+5) A la fin du script, il y a le fichier "nombre_traite.txt" qui
+note le nombre de tous les destinataires passés par le script.
+Et enfin, il y a le fichier "trace.txt" qui sauvegarde les destinataires
+envoyés seulement par le message c'est-à-dire présence de "connect ou message".
+
+Cordialement,
+Micka
